@@ -11,6 +11,7 @@ public class JavaBean {
     private final String str;
     private final String str2;
 
+
     public static class Builder {
         private final int id;
         private  String str;
