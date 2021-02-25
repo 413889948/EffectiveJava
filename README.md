@@ -1,0 +1,2 @@
+# EffectiveJava
+对EffectiveJava第三版进行的demo分析与使用测试的项目，目的是为了帮助学习理解EffectiveJava的代码介绍
